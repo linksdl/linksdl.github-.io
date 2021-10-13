@@ -1,14 +1,16 @@
 /*
-Error: Invalid CSS after "//@import "";": expected "{", was ""
-        on line 5 of style.scss
+Error: Invalid CSS after "...ima/initialize"": expected "{", was ";"
+        on line 7 of style.scss
 
-1: ---
-2: ---
-3: 
-4: //@import "";
+2: # Only the main Sass file needs front matter (the dashes are enough)
+3: ---
+4: 
+5: @import
+6:   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+7:   "minima/initialize";
 
 Backtrace:
-style.scss:5
+style.scss:7
 /usr/local/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1308:in `expected'
 /usr/local/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1238:in `expected'
 /usr/local/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/scss/parser.rb:1233:in `tok!'
@@ -32,4 +34,4 @@ style.scss:5
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"//@import \"\";\": expected \"{\", was \"\"\A         on line 5 of style.scss\A \A 1: ---\A 2: ---\A 3: \A 4: //@import \"\";"; }
+  content: "Error: Invalid CSS after \"...ima/initialize\"\": expected \"{\", was \";\"\A         on line 7 of style.scss\A \A 2: # Only the main Sass file needs front matter (the dashes are enough)\A 3: ---\A 4: \A 5: @import\A 6:   \"minima/skins/{{ site.minima.skin | default: 'classic' }}\",\A 7:   \"minima/initialize\";"; }
