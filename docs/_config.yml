@@ -54,6 +54,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-header_pages:
-  - about.md
-  - home.md
