@@ -1,7 +1,7 @@
 ## Personal Information
 
 ### Contact information
-- [Email](@shengdl999links@gmail.com): shengdl999links@gmail.com
+- Email: @shengdl999links@gmail.com
 - Phone Number: +44 0790-112-5130
 - Address: Leeds, UK
 - [Github](https://github.com/linksdl): https://github.com/linksdl
