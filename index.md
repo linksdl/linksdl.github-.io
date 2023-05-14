@@ -11,20 +11,24 @@
  -->
 
 ### 基本信息
-盛先生, 1989/05, 高级计算机科学与技术（AI），硕士，意向职位：感知融合算法工程师，工作地点：上海，薪资：面议
+- 盛先生, 1989/05, 高级计算机科学与技术（AI），硕士
+- 工作经验：8+年
+- 意向职位：感知融合算法工程师
+- 工作地点：上海
+- 期望薪资：面议
 
 ### 联系方式
 - 电子邮箱：15900859362@163.com
 - 电话号码： +86 159-0085-9362
-- 所在地址：中国，北京
+- 目前地址：北京，海淀区
 - [Github](https://github.com/linksdl)：https://github.com/linksdl
 - [Linkedin]( https://www.linkedin.com/in/b-sheng-26395800951/)： https://www.linkedin.com/in/b-sheng-26395800951/
 - 微信号：sheng4233
 
 ### 个人优势
 - 具有6+年软件开发以及互联网工作经验
-- 具有较好的软件系统工程研发和设计能力
 - 具有2+年自动驾驶感知融合算法工作和学习经验
+- 具有较好的软件系统工程研发和设计能力
 - 具有良好的学术研究能力和学习能力,并荣获英国利兹大学高级计算机科学（人工智能）专业一等学位（Top3%）
 - 具有良好的英文读写能力，能熟练阅读相关自动驾驶,人工智能等学术论文
 - 具有良好的沟通，团队协作和管理能力，具有良好的抗压能力
@@ -116,7 +120,7 @@
 ---
 城市环境中的2D目标检测和分类 2021/04–2021/07
 - 项目描述：在本项目中,使用深度学习和图像检测和分类的相关算法,并使用来自Waymo开放数据集的数据来进行目标检测和分类。主要实现基于相机作为传感器时,在行车过程中实现2D目标（行人,车辆,自行车等）检测分类任务。
-- 关键技术：Python,Tensorflow,Keras,Numpy,Matplotlib,线性代数,微积分,模型评估（混合矩阵）,DeepLearning,MachineLearning,相机标定,图像处理,Pillow,CNN,迁移学习,RCNNs（R-CNN,Fast-RCNN,Faster-RCNN）,YOLO,SSD,NMS,Soft-NMS,平均精度(mAP),Recall。
+- 关键技术：Python,Tensorflow,Keras,Numpy,Matplotlib,线性代数,微积分,模型评估（混合矩阵,DeepLearning,MachineLearning,相机标定,图像处理,Pillow,CNN,迁移学习,RCNNs（R-CNN,Fast-RCNN,Faster-RCNN）,YOLO,SSD,NMS,Soft-NMS,平均精度(mAP),Recall。
 
 ---
 其他实践项目 2020/12–2021/04
