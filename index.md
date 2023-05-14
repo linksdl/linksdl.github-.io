@@ -29,3 +29,33 @@ Billy, 1989/05, 高级计算机科学与技术（AI），硕士，感知融合�
 - 具有良好的英文读写能力，能熟练阅读相关自动驾驶,人工智能等学术论文
 - 具有良好的沟通，团队协作和管理能力，具有良好的抗压能力
 - 具有良好的学习能力，喜爱关注前沿科技趋势，能快速了解和掌握新事物
+
+### 个人技能
+- 熟悉C/C++, Python, Matlab, Shell, Java; 掌握CMake, Make, GDB等编译调试工具 
+- 熟悉相机、激光雷达、毫米波雷达、IMU、GNSS等传感器的工作原理 
+- 掌握相关的数学、线性代数、概率论方面的知识, 以及非线性优化, 科学计算等优化理论 
+- 掌握OpenCV, PCL, Eigen, Ceres Solver, G2O, Gtsam等常用第三方库 
+- 熟悉贝叶斯估计、多目标检测与跟踪、数据关联与匹配、信息融合、目标跟踪等算法 
+- 掌握多传感器传感器时空同步/标定/聚类/关联/滤波等传感器融合常用算法 
+- 熟悉滤波器(KF, EKF, IEKF, UKF, PF)等贝叶斯滤波算法 
+- 熟悉视觉检测算法：RCNN, Faster RCNN, YOLOv3-YOLOv8以及相关变体2D目标检测算法 
+- 了解Lidar 3D目标检测算法：PointNet++, Point-RCNN, 3D-SSD, VoxelNet, PIXOR, PointPillar等 
+- 了解Lidar 3D语义分割算法：RangeNet++, SqueezeSeg, LiDARSeg, Panoptic-PolarNet等 
+- 了解Radar 目标检测算法：基于传统的方法（聚类和卡尔曼滤波）, 以及点云数据的深度学习方法 
+- 了解常见的多传感器融合算法：基于Lidar+Camera的前融合算法：MV3D, FrustumPointNet, ContFuse, CalibNet；基 于Camera+Radar的前融合算法：CRFNet, GRIFNet
+- 了解Cartographer, LOAM, LeGo-LOAM, LIO-SAM, LVI-SAM, ICPs, NDT等常激光SLAM算法 
+- 了解基于Tracking by detection的MOT算法：SORT, DeepSort, ByteTrack等 
+- 熟悉Machine Learning, Deep Learing, Transfer learning等人工智能算法 
+- 掌握PyTorch, Tensorflflow, Keras, CUDA, GPU, TensoRT等深度学习框架和模型部署平台 
+- 掌握ROS1/ROS2, Linux, Git&Github, Shell, Jupyter, Vscode, Docker等开发工具和平台
+
+### 资格证书
+- 人工智能工程师，光环国际，2019/10 – 至今 
+- PMP项目管理证书，PMI，2017/9 – 2023/09
+- NPNP产品经理认证，PDMA，2018/11 – 2024/11
+- 信息系统项目管理师（高级），工业和信息化部, 2017/05 – 至今 
+- IBM数据科学专业认证，Coursera，2021/08 – 至今 
+- IBM数据科学专业入门认证，Coursera，2021/06 – 至今 
+
+
+
